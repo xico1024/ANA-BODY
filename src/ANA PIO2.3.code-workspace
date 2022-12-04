@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"name": "ANA PIO2.2",
+			"path": ".."
+		},
+		{
+			"name": "HEAD PIO2.1",
+			"path": "../../HEAD PIO2.1"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"array": "cpp",
+			"deque": "cpp",
+			"list": "cpp",
+			"string": "cpp",
+			"unordered_map": "cpp",
+			"vector": "cpp",
+			"string_view": "cpp",
+			"initializer_list": "cpp",
+			"ranges": "cpp",
+			"random": "cpp"
+		}
+	}
+}
